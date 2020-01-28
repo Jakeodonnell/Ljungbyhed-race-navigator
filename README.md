@@ -1,1 +1,1 @@
-Ljungbyhed race navigator
+Ljungbyhed race navigator used for getting laptimes at the racetrack. Implemented features are "race mode" that gives you a view of current laptime, fastest laptime and previous laptime. The best lap will be uploaded to a database that the admin can then choose what to do with(virtual scoreboard?). A map of the track. And finally an onboard view that recordes with suitable overlays such as speed, time, best time, last time.
